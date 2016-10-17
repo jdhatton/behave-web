@@ -1,14 +1,20 @@
-
 {
-  "name": "behave-web",
+  "name": "behaver-web",
+  "version": "0.0.0",
+  "authors": "",
+  "private": true,
   "dependencies": {
-    "jquery": "~2.1.0",
-    "bootstrap": "~3.2.0",
-    "paper-tabs": "polymerelements/paper-tabs#~1.0.10",
-    "iron-pages": "polymerelements/iron-pages#~1.0.3",
-    "webcomponentsjs": "~0.7.17"
+    "angular": "^1.3.12",
+    "angular-ui-router": "^0.2.11",
+    "angular-animate": "^1.3.0",
+    "foundation": "~5.5.1"
   },
   "devDependencies": {
-    "prefixfree": "91790e8aff6d807cd62018479db2307e1972b92a"
+    "angular-mocks": "^1.2.23"
+  },
+  "overrides": {
+    "foundation": {
+      "main": "js/foundation.js"
+    }
   }
 }
