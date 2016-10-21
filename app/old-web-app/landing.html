@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en" >
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link rel="icon" href=".img/favicon.ico">
+    <title>Homeroom Technologies LLC.</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="./bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="./bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="./css/stickyFooterNavBar.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/4.0.1/ekko-lightbox.min.css">
+	<link href="./css/modals.css" rel="stylesheet">
+   
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    
+    <!-- Bootstrap Social -->
+    <link rel="stylesheet" href="./bootstrap/bootstrap-social/bootstrap-social.css">
+  
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <!--  <script src="../../assets/js/ie-emulation-modes-warning.js"></script> -->
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style type="text/css">
+      .center_div{
+        margin: 0 auto;
+        width:80% /* value of your choice which suits your alignment */
+      }
+    </style>
+    
+   
+  </head>
+
+  <body>
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="index.html"><img src="./img/homeroom-logo-1.png" alt="Smiley face" height="50" width="80"></a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="howItWorks.html">How it works</a></li>
+             <li><a href="#"></a></li>
+            <li><a href="newAccount.html">Create Account</a></li>
+             <li><a href="#"></a></li>
+            <li><a href="getTheApp.html">Get the App</a></li>
+            <li><a href="#">|</a></li>
+            <li><a href="#"></a></li>
+            <li><a href="login.html">Login</a></li>
+            <!-- <li><a href="#"></a></li> -->
+            
+            <!-- <li class="active"><a href="createAccount.html">Create Account</a></li> -->
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <!-- Begin page content -->
+	<div class="container">
+
+
+		<div class="container center_div">
+
+			<br> <br> <br>
+			<h3 class="page-header" id="youtube-gallery">Watch our videos to get started.</h3>
+			<div class="row">
+				<div class="col-md-offset-1 col-md-10">
+					<div class="row">
+						<a href="http://www.youtube.com/watch?v=k6mFF3VmVAs"
+							data-toggle="lightbox" data-gallery="youtubevideos"
+							class="col-sm-4"> <img
+							src="//i1.ytimg.com/vi/yP11r5n5RNg/mqdefault.jpg"
+							class="img-responsive">
+						</a> 
+
+						<a href="http://youtu.be/iQ4D273C7Ac" data-toggle="lightbox"
+							data-gallery="youtubevideos" class="col-sm-4"> <img
+							src="//i1.ytimg.com/vi/iQ4D273C7Ac/mqdefault.jpg"
+							class="img-responsive">
+						</a> 
+						 
+						<a href="//www.youtube.com/embed/b0jqPvpn3sY"
+							data-toggle="lightbox" data-gallery="youtubevideos"
+							class="col-sm-4"> <img
+							src="//i1.ytimg.com/vi/b0jqPvpn3sY/mqdefault.jpg"
+							class="img-responsive">
+						</a>
+					</div>
+				</div>
+			</div>
+		
+		</div>
+	</div>
+	
+		<div class="container">
+			<a href="https://itunes.apple.com/us/app/homeroomclassroom-free/id1018616543?mt=8" target="_blank">
+				<img width="178px" src="https://cf.dropboxstatic.com/static/images/app_store_badges/ios-app-store-us-vfl0FWNkQ.svg" alt="Get in the App Store" data-js-component-id="component34830">
+			</a>
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		<div class="container">		
+			<a href="#" data-toggle="modal" data-target="#login-modal">Get The App on your phone!</a>
+		</div>
+
+		<div class="modal fade" id="login-modal" name='login-modal' tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+    	  <div class="modal-dialog">
+				<div class="loginmodal-container">
+					<h1>Send me an SMS text message with an Application link.</h1><br>
+				  <form id="sms-form" name="sms-form" >
+					<input type="text" name="phoneNumber" id="phoneNumber" placeholder="Enter your phone number">
+					<!--   <input type="submit" name="send" class="login loginmodal-submit" value="Send">  -->
+					<button id="postFormBtn" name="postFormBtn" type="button" class="btn btn-lg btn-primary btn-block" >Send 2</button> 
+				  </form>
+				  <span data-alertid="auth"></span>	
+				</div>
+			</div>
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+	<footer class="footer" style="color: #99979c; text-align: center; background-color: #2a2730">
+		<div class="container center_div">
+			<table >  
+    		 <tbody>
+    		  <tr>
+				<td> <p>
+				   <a href="http://twitter.com/homeroomtechn" target="_blank" class="btn btn-social-icon btn-twitter"><span class="fa fa-twitter"></span></a> 
+				   <a href="http://facebook.com/homeroomclassroom" target="_blank" class="btn btn-social-icon btn-facebook"><span class="fa fa-facebook"></span></a>
+				   <a href="http://www.youtube.com/channel/UCBKAWbARnCLcA0klXOJiWug" target="_blank" class="btn btn-social-icon btn-youtube"><span class="fa fa-youtube"></span></a>
+				</p></td>
+				<td><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				   
+				   <a href="newAccount.html">Register</a>   &nbsp;&nbsp;&nbsp;
+				   <a href="support.html">Support</a>  &nbsp;&nbsp;&nbsp;
+				   <a href="marketing.html">Marketing</a> &nbsp;&nbsp;&nbsp;
+				   <a href="policy.html">Policy</a>  &nbsp;&nbsp;&nbsp;
+				</p></td>
+				</tr>
+			 </tbody>
+  			</table>
+ 		</div>
+	</footer>
+
+
+
+	<!-- Bootstrap / JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="js/jquery.cookie.js"></script>
+	<script src="js/jquery.session.js"></script>
+	<script src="js/Utilz.js"></script>
+    <script src="./bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/jquery-bs-formalerts-0.1.3/js/jquery.bsFormAlerts.js"></script>
+    <script src="js/jquery-bs-formalerts-0.1.3/js/prettify.js"></script>
+     
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug 
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+    -->
+ 
+	  <script>
+	  $( document ).ready(function() {
+		console.log('JQuery Loading...');
+	    console.log( "The DOM is now loaded and can be manipulated." );
+	    
+	    var cookies =  $.cookie();
+	    console.log('COOKIES:  ' + cookies);
+		
+	    var emailCookie = $.cookie('hcRest_email');
+	    var passwCookie = $.cookie('hcRest_passw');
+	    console.log('email  :  ' + emailCookie);
+	    console.log('passw  :  ' + passwCookie);
+	    
+	    if(emailCookie != undefined ){
+	    	if(passwCookie != undefined ){
+	    		//
+	    		// TODO: process to logon.
+	    		//
+	    		if( $.session.get('email') != undefined ) {
+	    			if( $.session.get('password') != undefined ) {
+	    				alert(' Found the cookied and the session vars. Routing you to main page. ');
+		    		}
+	    		}
+	    		
+	    		alert(' Cookie found! Soon we will be logging you on here :) ');
+	  
+	  			// On success of REST logon - create session vars.
+			    	//$.session.set('email', $('#email').val());
+	 		    	//$.session.set('passw', $('#password').val());
+			    	//$.session.set('userId', 'TBD'');
+	 		    	//$.session.set('userData', 'TBD'');
+	    	}
+	    }
+	    
+	    //
+	    // token param - if there is one we need to pre-populate. 
+	    //
+	    var token = $.urlParam('token');
+	    if(token.length > 0){
+	    	console.log('token = ' + token);
+	    	$('#token').val(token);
+	    	$('#token').prop("readonly", true);
+	    }
+	    
+	  });
+  </script> 
+ 
+ 
+ 	<script src="//code.jquery.com/jquery.js"></script>
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/4.0.1/ekko-lightbox.min.js"></script>
+<!-- 	<script src="js/jquery-bs-formalerts-0.1.3/js/jquery.bsFormAlerts.js"></script>
+    <script src="js/jquery-bs-formalerts-0.1.3/js/prettify.js"></script> -->
+    
+	<script type="text/javascript">
+			$(document).ready(function ($) {
+
+				// delegate calls to data-toggle="lightbox"
+				$(document).delegate('*[data-toggle="lightbox"]:not([data-gallery="navigateTo"])', 'click', function(event) {
+					event.preventDefault();
+					return $(this).ekkoLightbox({
+						onShown: function() {
+							if (window.console) {
+								return console.log('onShown event fired');
+							}
+						},
+						onContentLoaded: function() {
+							if (window.console) {
+								return console.log('onContentLoaded event fired');
+							}
+						},
+						onNavigate: function(direction, itemIndex) {
+							if (window.console) {
+								return console.log('Navigating '+direction+'. Current item: '+itemIndex);
+							}
+						}
+					});
+				});
+
+				//Programatically call
+				$('#open-image').click(function (e) {
+					e.preventDefault();
+					$(this).ekkoLightbox();
+				});
+				$('#open-youtube').click(function (e) {
+					e.preventDefault();
+					$(this).ekkoLightbox();
+				});
+
+				$(document).delegate('*[data-gallery="navigateTo"]', 'click', function(event) {
+					event.preventDefault();
+					return $(this).ekkoLightbox({
+						onShown: function() {
+							var lb = this;
+							$(lb.modal_content).on('click', '.modal-footer a', function(e) {
+								e.preventDefault();
+								lb.navigateTo(2);
+							});
+						}
+					});
+				});
+				
+				
+				
+				
+				
+				
+				
+				 $('.btn').click(function () {
+					    console.log('form submitting jquery...'); 	
+					    var phoneNumber =   $('#phoneNumber').val();
+						console.log('phoneNumber = ' + $('#phoneNumber').val() );
+
+				 		if ( (phoneNumber.length > 6 && phoneNumber.length < 12 ) && ($.isNumeric(phoneNumber)) ) { 
+								var smsMessage = new Object();
+								smsMessage.phoneNumber = phoneNumber;
+				 				$.ajax({
+								    type: "POST",
+								    dataType: 'json',
+								    url: '/sendSmsTextMessage',
+								    data: JSON.stringify({phoneNumber}),
+								    contentType: "application/json; charset=utf-8",
+								    success: function(data){ 								    	 
+										console.log(' SMS Sent' );
+										// hide the modal
+						 				$('.modal.in').modal('hide');		
+						 				window.location.href = '/landing.html';	
+								    },
+								    failure: function(errMsg) {
+								    	console.log('>> It did not work : '+ errMsg);
+										 $(document).trigger("set-alert-id-auth", [ {
+												message : "Failed to send SMS Message: Did you provide the correct phone# ?",
+												priority : "error"
+											} ]);
+								    }
+								}); 	
+				 		} 
+				 		else {
+				 			console.log("\n =====>>>>    FORM IS STILL NOT VALID   !!!!!   ");
+				 			//
+				 			// Phone# Validation
+				 			//
+				 			if( (phoneNumber.length < 7) && ($.isNumeric(phoneNumber)) ) {
+								 $(document).trigger("set-alert-id-auth", [ {
+										message : "Please provide a valid phone number",
+										priority : "error"
+									} ]);
+				 			} else {
+				 				$(document).trigger("set-alert-id-auth", [ {
+									message : "",
+									priority : "none"
+								} ]);
+				 			}				 			
+				 		}
+					 });		
+				});
+				
+		</script>
+ 
+  </body>
+</html>
