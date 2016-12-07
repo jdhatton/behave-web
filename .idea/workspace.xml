@@ -1,7 +1,406 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67537224-03f2-4e72-8e69-696afe05cea9" name="Default" comment="" />
+    <list default="true" id="67537224-03f2-4e72-8e69-696afe05cea9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/area-inverted/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/column-placement/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_pt_PT.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/css/bootstrap-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_zh.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/assets/js/docs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/dynamic-master-detail/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/js/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/apple-touch-icon-152x152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/line-basic/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/apple-touch-icon-120x120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/additional-methods.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/img/bs-docs-masthead-pattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/pyramid/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_bn_BD.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/box-plot/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/3d-column-null-values/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/assets/img/bootstrap-social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/line-log-axis/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_id.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/pie-semi-circle/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_no.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_es_PE.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/combo-timeline/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/no-data-to-display.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/WEB-INF/log4j.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/spline-plot-bands/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/3d-pie/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_zh_TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_no.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/SAVED/createAccount.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/areaspline/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/site.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/assets/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/gauge-solid/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/combo-regression/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/funnel/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_sv.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/no-data-to-display.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/offline-exporting.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/css/ref.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/methods_pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/combo-multi-axes/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/spline-irregular-time/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/combo/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/exporting.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/js/jquery-1.11.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/pie-donut/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/Utilz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery.session.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/themes/dark-unica.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/renderer/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/polygon/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/column-parsed/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/HELP-US-OUT.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/gauge-speedometer/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/bsFormAlerts.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_hr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/apple-touch-icon-57x57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/funnel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/themes/skies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/splash.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/highcharts-3d.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/line-ajax/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/heatmap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/combo-dual-axes/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/bootstrap-social.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/methods_fi.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_pt_PT.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/apple-touch-icon-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/heatmap.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/spline-symbols/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/arearange-line/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/highcharts-3d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_th.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/exporting.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/heatmap/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_uk.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ka.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/adapters/standalone-framework.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/pie-basic/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/treemap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/broken-axis.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_eu.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_es_PE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_pl.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/boost.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_cs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/line-labels/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_de.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/line-time-series/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/area-missing/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_lv.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/additional-methods.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/3d-scatter-draggable/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/synchronized-charts/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/columnrange/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/highcharts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/treemap-with-levels/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_sr_lat.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/area-stacked-percent/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_my.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/column-drilldown/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_tr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/assets/css/docs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/themes/dark-green.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/bubble/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/methods_fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_pt_BR.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_bn_BD.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/graphics/snow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/bar-basic/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/assets/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/js/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_eu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/methods_de.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_tj.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/area-basic/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_kk.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ge.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_da.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/apple-touch-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/column-rotated-labels/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/favicon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_es_AR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/column-basic/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/methods_es_CL.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/js/jquery.bsFormAlerts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/data.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/bootstrap-social.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_my.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ca.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/heatmap-canvas/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_sr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/highcharts-more.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/3d-pie-donut/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/pie-legend/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/offline-exporting.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/treemap-large-dataset/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_kk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/graphics/highslide/resize.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_hy_AM.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/scatter/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_sl.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ka.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/css/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/area-negative/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery.validate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/treemap.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/graphics/highslide/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/themes/sand-signika.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_es_AR.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_fr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_si.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/adapters/standalone-framework.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/arearange/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/gfx/vml-radial-gradient.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/methods_de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ja.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/3d-column-interactive/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_fa.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/column-negative/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_he.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_is.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/css/source-sans-pro.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_hy_AM.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/css/jquery-ui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_es.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/pie-monochrome/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_el.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/solid-gauge.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/error-bar/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/dynamic-update/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/js/ref.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/bar-negative-stack/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/spline-inverted/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/themes/grid-light.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/drilldown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_tj.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/column-stacked-percent/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/apple-touch-icon-76x76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/broken-axis.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/funnel.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/polar/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ru.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_hu.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_vi.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/solid-gauge.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/drilldown.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_nl.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/apple-touch-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_si.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/highcharts.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/3d-column-stacking-grouping/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/favicon-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_it.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/bsFormAlerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/polar-spider/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/gauge-vu-meter/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/graphics/skies.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ko.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/pie-drilldown/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/graphics/sun.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_et.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/graphics/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_pt_BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/apple-touch-icon-180x180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/graphics/meteogram-symbols-30px.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-2.1.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/graphics/highslide/zoomout.cur" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/canvas-tools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/pie-gradient/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/themes/gray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/treemap-coloraxis/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/methods_es_CL.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/graphics/highslide/outlines/rounded-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_sk.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/sparkline/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_fi.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/area-stacked/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/gauge-dual/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/column-stacked-and-grouped/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/graphics/highslide/closeX.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/column-stacked/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/dynamic-click-to-add/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/methods_pt.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/boost.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ge.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/gauge-clock/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/combo-meteogram/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_sr_lat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/bubble-3d/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/themes/dark-blue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/SAVED/createAccount2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_lt.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/Highcharts.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/assets/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/methods_nl.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_ro.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/hello.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_bg.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/favicon-160x160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/waterfall/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/polar-wind-rose/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_zh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/modules/canvas-tools.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/api/images/apple-touch-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/css/docs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/js/themes/grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/examples/bar-stacked/index.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/methods_nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/jquery-bs-formalerts-0.1.3/build/jquery.bsFormAlerts.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/bootstrap-social/bootstrap-social.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_gl.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/js/localization/messages_zh_TW.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/font-awesome-4.5.0/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/old-web-app/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/contact.html" afterPath="$PROJECT_DIR$/app/old-web-app/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/newAccount.html" afterPath="$PROJECT_DIR$/app/old-web-app/newAccount.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/behaver-web.iml" afterPath="$PROJECT_DIR$/behaver-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/teacherMain.html" afterPath="$PROJECT_DIR$/app/old-web-app/teacherMain.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/support.html" afterPath="$PROJECT_DIR$/app/old-web-app/support.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/charts4.html" afterPath="$PROJECT_DIR$/app/old-web-app/charts4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/policy.html" afterPath="$PROJECT_DIR$/app/old-web-app/policy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/footer.html" afterPath="$PROJECT_DIR$/app/old-web-app/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/childMain.html" afterPath="$PROJECT_DIR$/app/old-web-app/childMain.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/about.html" afterPath="$PROJECT_DIR$/app/old-web-app/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/logoff.html" afterPath="$PROJECT_DIR$/app/old-web-app/logoff.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/index.html" afterPath="$PROJECT_DIR$/app/old-web-app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/marketing.html" afterPath="$PROJECT_DIR$/app/old-web-app/marketing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/parentMain.html" afterPath="$PROJECT_DIR$/app/old-web-app/parentMain.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/css/modals.css" afterPath="$PROJECT_DIR$/app/old-web-app/css/modals.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/charts2.html" afterPath="$PROJECT_DIR$/app/old-web-app/charts2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/charts3.html" afterPath="$PROJECT_DIR$/app/old-web-app/charts3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/landing.html" afterPath="$PROJECT_DIR$/app/old-web-app/landing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/old-web-app/forgotPassword.html" afterPath="$PROJECT_DIR$/app/old-web-app/forgotPassword.html" />
+    </list>
     <ignored path="behaver-web.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,35 +421,45 @@
     <favorites_list name="behaver-web" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+            <state relative-caret-position="240">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower.json">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <marker date="1476665287000" expanded="true" signature="366:370" placeholder="{&quot;prefixfree&quot;: &quot;91790e8aff6d807cd62018479db2307e1972b92a&quot;...}" />
-              </folding>
+            <state relative-caret-position="3660">
+              <caret line="244" column="53" selection-start-line="244" selection-start-column="53" selection-end-line="244" selection-end-column="53" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="landing.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="teacherMain.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/old-web-app/teacherMain.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1109">
+              <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="landing.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/old-web-app/landing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="1515">
+              <caret line="101" column="50" selection-start-line="101" selection-start-column="50" selection-end-line="101" selection-end-column="50" />
+              <folding>
+                <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,7 +484,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/bower.json" />
@@ -88,6 +496,25 @@
         <option value="$PROJECT_DIR$/app/components/home.html" />
         <option value="$PROJECT_DIR$/app/components/demoComponent/demoComponent.html" />
         <option value="$PROJECT_DIR$/app/components/demoComponent/demoComponentDirective.js" />
+        <option value="$PROJECT_DIR$/app/old-web-app/about.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/charts2.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/charts3.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/charts4.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/childMain.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/contact.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/footer.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/forgotPassword.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/index.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/landing.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/logoff.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/marketing.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/newAccount.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/parentMain.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/policy.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/teacherMain.html" />
+        <option value="$PROJECT_DIR$/app/old-web-app/support.html" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/old-web-app/css/modals.css" />
       </list>
     </option>
   </component>
@@ -97,10 +524,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="863" />
-    <option name="y" value="55" />
-    <option name="width" value="1665" />
-    <option name="height" value="1245" />
+    <option name="x" value="29" />
+    <option name="y" value="32" />
+    <option name="width" value="2068" />
+    <option name="height" value="1260" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -127,6 +554,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -144,20 +572,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="behaver-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="behaver-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="behaver-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="devServer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -193,34 +607,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="behaver-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="behaver-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/hc-web" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="project.structure.last.edited" value="Project" />
@@ -665,20 +1060,21 @@
       <option name="presentableId" value="Default" />
       <updated>1476525262916</updated>
       <workItem from="1476525279716" duration="386000" />
-      <workItem from="1476648955388" duration="7408000" />
+      <workItem from="1476648955388" duration="13885000" />
+      <workItem from="1480998370441" duration="590000" />
+      <workItem from="1481076219047" duration="6000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7794000" />
+    <option name="totallyTimeSpent" value="14867000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="863" y="55" width="1665" height="1245" extended-state="0" />
+    <frame x="29" y="32" width="2068" height="1260" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -688,10 +1084,9 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3033033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2441973" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -701,8 +1096,10 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -725,7 +1122,23 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3660">
+          <caret line="244" column="53" selection-start-line="244" selection-start-column="53" selection-end-line="244" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/teacherMain.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -733,7 +1146,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/npm-debug.log">
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" column="50" selection-start-line="101" selection-start-column="50" selection-end-line="101" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -741,11 +1172,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" column="50" selection-start-line="101" selection-start-column="50" selection-end-line="101" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/npm-debug.log" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,7 +1195,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,7 +1202,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -769,7 +1209,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1094">
           <caret line="1467" column="44" selection-start-line="1467" selection-start-column="44" selection-end-line="1467" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,7 +1216,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +1223,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +1230,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +1237,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,23 +1244,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-292">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -833,7 +1251,145 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="101" column="15" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/charts2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/charts3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/charts4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/charts6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/charts5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/childMain.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="116" column="42" selection-start-line="116" selection-start-column="42" selection-end-line="116" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="72" column="31" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/forgotPassword.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="93" column="48" selection-start-line="93" selection-start-column="48" selection-end-line="93" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/logoff.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/marketing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="86" column="89" selection-start-line="86" selection-start-column="89" selection-end-line="86" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/newAccount.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="134" column="43" selection-start-line="134" selection-start-column="43" selection-end-line="134" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/parentMain.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="90" column="6" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/policy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="77" column="14" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/support.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="77" column="4" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/bootstrap/js/npm.js" />
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/Highcharts-4.2.0/index.htm" />
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/pages.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" column="50" selection-start-line="101" selection-start-column="50" selection-end-line="101" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -841,16 +1397,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <marker date="1476665287000" expanded="true" signature="366:370" placeholder="{&quot;prefixfree&quot;: &quot;91790e8aff6d807cd62018479db2307e1972b92a&quot;...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/old-web-app/landing.html">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/css/modals.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3660">
+          <caret line="244" column="53" selection-start-line="244" selection-start-column="53" selection-end-line="244" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/old-web-app/teacherMain.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1109">
+          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
           <folding />
         </state>
       </provider>

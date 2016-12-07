@@ -1,4 +1,28 @@
+
 var gulp = require('gulp');
+// 	connect = require('gulp-connect');
+//
+// gulp.task('webserver', function() {
+// 	connect.server({
+// 		livereload: true
+// 	});
+// });
+//
+// gulp.task('default', ['webserver']);
+
+
+var serve = require('gulp-serve');
+gulp.task('serve', serve('public'));
+gulp.task('serve-build', serve(['public', 'build']));
+gulp.task('serve-prod', serve({
+	root: ['public', 'build'],
+	port: 8080,
+	middleware: function(req, res) {
+		// custom optional middleware
+	}
+}));
+
+
 var plugins = require('gulp-load-plugins')();
 var del = require('del');
 var es = require('event-stream');
